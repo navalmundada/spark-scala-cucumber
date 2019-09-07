@@ -1,0 +1,3 @@
+class OOBasics extends App {
+
+}
